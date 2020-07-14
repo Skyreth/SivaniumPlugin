@@ -1,0 +1,13 @@
+name: SivaniumPlugin
+version: 2.0
+author: SkyrethTM
+main: fr.skyrethtm.sivanium.Main
+commands:
+ m:
+    description: commande admin
+ minage: 
+    description: tp au monde minage
+ shop: 
+    description: ouvre le shop
+ 
+ 
